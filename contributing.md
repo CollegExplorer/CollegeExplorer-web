@@ -1,0 +1,5 @@
+Thanks for taking up Interest in contributing to collegexplorer.
+Here are some guidelines which are to be followed in order to contribute to the repo.
+ * clone the repo.
+ * Create a separate directory on your system, say collegexplorer.
+ * For pushing changes, all commits have to be marked on 'bug-fix' branch.
