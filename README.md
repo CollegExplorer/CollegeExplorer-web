@@ -23,8 +23,10 @@ Explain how to run the automated tests for this system
 ### Website Work Flow
 
 ![Unable to load Image](https://github.com/CollegExplorer/CollegExplorer-web/img/wf1.png)
-![Unable to load Image](https://github.com/CollegExplorer/CollegExplorer-web/img/wf2.png)
-![Unable to load Image](https://github.com/CollegExplorer/CollegExplorer-web/img/wf3.png)
+### Authentic Reviews
+![Unable to load Image](https://github.com/CollegExplorer/CollegeExplorer-web/blob/master/assets/images/Authenticreviews.png)
+### Important Dates
+![Unable to load Image](https://github.com/CollegExplorer/CollegeExplorer-web/blob/master/assets/images/Importantdates.png)
 
 
 
