@@ -1,7 +1,7 @@
 # CollegExplorer
 
 CollegExplorer is an Open Source college companion platform where students can select their Dream Engineering college from the top 40 colleges of the Country.
- * Collegexplorer has 45 colleges in our catalog.
+ * Collegexplorer provides information about top 45 engineering colleges in India.
  * The platform provide a Question-Answer forum where students can answer the questions which prospective stduents have asked and can also provide reviews of their respective colleges.
  * CollegeExplorer also provides nearby landmarks for every college which is present in the list. Landmarks may include Public places, ATM's, Dept- stores, Pharmacy, hospitals, restaurants etc. 
 
