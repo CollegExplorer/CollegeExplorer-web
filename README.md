@@ -1,9 +1,9 @@
 # CollegExplorer
 
-CollegExplorer is Open Source college companion platform where students can select their Dream Engineering college from the best of Country.
- * We have 50 colleges in our catalog.
- * We provide a Question-Answer forum where students can share their experience by answering the questions which fresher's have asked.
- * CollegeExplorer also provides nearby landmarks for every college which is present in the list. Landmarks may include Public places, ATM's,      Dept- stores, Pharmacy etc. 
+CollegExplorer is an Open Source college companion platform where students can select their Dream Engineering college from the top 40 colleges of the Country.
+ * Collegexplorer has 45 colleges in our catalog.
+ * The platform provide a Question-Answer forum where students can answer the questions which prospective stduents have asked and can also provide reviews of their respective colleges.
+ * CollegeExplorer also provides nearby landmarks for every college which is present in the list. Landmarks may include Public places, ATM's, Dept- stores, Pharmacy, hospitals, restaurants etc. 
 
 ## Getting Started
 
@@ -11,10 +11,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisities
 
- * APACHE2 (in case of ubuntu)
- * MY-SQL (PHPMYADMIN)
- * WAMP / XAMP server
- * Our Database.
+ * LAMP / XAMP server
+ * Collegexplorer Database.
 
 ## Running the tests
 
